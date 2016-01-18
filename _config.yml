@@ -1,0 +1,28 @@
+name: golf
+favicon: null
+layout_spectrum: 0.2933659884147346
+typography_spectrum: 0.7667056485079229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8650915345642716
+  lightness: 0.8532653930597007
+  saturation: 0.7922106827609241
+  rhythmicContrast: 0.21468720980919898
+purpose: []
